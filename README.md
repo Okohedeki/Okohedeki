@@ -1,11 +1,10 @@
 # Edeki Okoh
 
-I’m a software engineer building tools for creative work, personal knowledge,
-and working with AI agents.
+Software engineer. I’m building tools to separate voices, run agents on your
+own computer, and find ideas you’ve saved.
 
-My background spans mathematics, economics, computational research, and
-financial-services software. I’m interested in making complex systems useful
-through clear interfaces and tools people can inspect.
+I studied mathematics and economics at Arizona State University and work on
+financial-services software. The projects below are my independent work.
 
 [Personal site](https://okohedeki.github.io/blog/) ·
 [LinkedIn](https://www.linkedin.com/in/edeki-o-58895bb2/) ·
