@@ -1,10 +1,7 @@
 # Edeki Okoh
 
-Software engineer. I’m building tools to separate voices, run agents on your
-own computer, and find ideas you’ve saved.
-
-I studied mathematics and economics at Arizona State University and work on
-financial-services software. The projects below are my independent work.
+I build software for working with sound, running agents on your own computer,
+and finding ideas you’ve saved. These are my independent projects.
 
 [Personal site](https://okohedeki.github.io/blog/) ·
 [LinkedIn](https://www.linkedin.com/in/edeki-o-58895bb2/) ·
@@ -14,35 +11,34 @@ financial-services software. The projects below are my independent work.
 
 ### [Resonance Studio](https://okohedeki.github.io/blog/resonance-studio.html)
 
-A local studio for speech, acoustics, and video. Find speakers in a recording,
-listen to one voice, and export individual tracks.
+Find speakers in a recording, listen to one voice alongside the video, and
+export individual tracks. A local desktop prototype built with React, Tauri,
+and Python.
 
-**Prototype** · React, Tauri, Python · [Project notes and screenshot](https://okohedeki.github.io/blog/resonance-studio.html)
+*Prototype · [Interface and current scope](https://okohedeki.github.io/blog/resonance-studio.html)*
 
 ### [Airlock](https://github.com/Okohedeki/airlock)
 
 Run agents on your computer and call them through your own HTTPS relay, with
 access controls, remote approvals, and execution records.
 
-**Open source** · Python, TypeScript · [Code and setup](https://github.com/Okohedeki/airlock)
+*Open source · Python, TypeScript*
 
 ### [Windows AI Workstation](https://okohedeki.github.io/blog/windows-ai-workstation.html)
 
 A native Windows interface for document-oriented AI tasks. Review individual
 actions, inspect output documents, and reopen local task history.
 
-**Developer preview** · C#, WinUI 3, TypeScript · [Current scope](https://okohedeki.github.io/blog/windows-ai-workstation.html)
+*Developer preview · C#, WinUI 3, TypeScript · [Implementation notes](https://okohedeki.github.io/blog/windows-ai-workstation.html)*
 
 ### [Markov](https://github.com/Okohedeki/markov-engine)
 
 A bookmark app that remembers what you forgot. Save sources and notes, search
 your archive, and rediscover older ideas with a reason to revisit them.
 
-**Open source** · Python, PWA · [Code and setup](https://github.com/Okohedeki/markov-engine)
+*Open source · Python, PWA*
 
-## Elsewhere
+## About
 
-[Project notes and background](https://okohedeki.github.io/blog/) ·
-[Agent work archive](https://okohedeki.github.io/blog/worklog.html)
-
-Outside software, I’m usually somewhere inside a CRPG.
+Software engineer working on financial-services software. I studied mathematics
+and economics at Arizona State University. Outside software: CRPGs.
