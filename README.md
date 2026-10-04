@@ -1,11 +1,11 @@
 # Edeki Okoh
 
-I build software for working with sound, running agents on your own computer,
-and finding ideas you’ve saved. These are my independent projects.
+These are my independent projects.
 
-[Personal site](https://okohedeki.github.io/blog/) ·
+[Personal site](https://okohedeki.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/edeki-o-58895bb2/) ·
 [Email](mailto:okohedeki@gmail.com)
+[X](https://x.com/okoh_edeki32073)
 
 ## Selected work
 
