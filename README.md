@@ -37,8 +37,3 @@ A bookmark app that remembers what you forgot. Save sources and notes, search
 your archive, and rediscover older ideas with a reason to revisit them.
 
 *Open source · Python, PWA*
-
-## About
-
-Software engineer working on financial-services software. I studied mathematics
-and economics at Arizona State University. Outside software: CRPGs.
