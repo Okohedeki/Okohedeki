@@ -9,13 +9,13 @@ These are my independent projects.
 
 ## Selected work
 
-### [Resonance Studio](https://okohedeki.github.io/blog/resonance-studio.html)
+### [Resonance Studio](https://okohedeki.github.io/projects/#resonance-studio)
 
 Find speakers in a recording, listen to one voice alongside the video, and
 export individual tracks. A local desktop prototype built with React, Tauri,
 and Python.
 
-*Prototype · [Interface and current scope](https://okohedeki.github.io/blog/resonance-studio.html)*
+*Prototype · [Interface and current scope](https://okohedeki.github.io/projects/#resonance-studio)*
 
 ### [Airlock](https://github.com/Okohedeki/airlock)
 
@@ -24,12 +24,12 @@ access controls, remote approvals, and execution records.
 
 *Open source · Python, TypeScript*
 
-### [Windows AI Workstation](https://okohedeki.github.io/blog/windows-ai-workstation.html)
+### [Windows AI Workstation](https://okohedeki.github.io/projects/#windows-ai-workstation)
 
 A native Windows interface for document-oriented AI tasks. Review individual
 actions, inspect output documents, and reopen local task history.
 
-*Developer preview · C#, WinUI 3, TypeScript · [Implementation notes](https://okohedeki.github.io/blog/windows-ai-workstation.html)*
+*Developer preview · C#, WinUI 3, TypeScript · [Implementation notes](https://okohedeki.github.io/projects/#windows-ai-workstation)*
 
 ### [Markov](https://github.com/Okohedeki/markov-engine)
 
