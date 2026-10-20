@@ -9,31 +9,40 @@ These are my independent projects.
 
 ## Selected work
 
-### [Resonance Studio](https://okohedeki.github.io/projects/#resonance-studio)
+### [Scroll Studio](https://github.com/Okohedeki/scroll-studio)
 
-Find speakers in a recording, listen to one voice alongside the video, and
-export individual tracks. A local desktop prototype built with React, Tauri,
-and Python.
+An open-source design studio for landing pages. One YAML file becomes a scroll-driven site: generated worlds and
+camera moves, real 3D products, cinemagraphs, miniature worlds and thirty-two page styles, all made with local models.
+[Showcase](https://okohedeki.github.io/scroll-studio-showcase/)
 
-*Prototype · [Interface and current scope](https://okohedeki.github.io/projects/#resonance-studio)*
+*Open source (AGPL-3.0) · Python, TypeScript, three.js*
 
-### [Airlock](https://github.com/Okohedeki/airlock)
+### Markov
 
-Run agents on your computer and call them through your own HTTPS relay, with
-access controls, remote approvals, and execution records.
+The creator app for short-form video. Drop in any video, get the angle nobody has posted, then script it, cut it and
+check it, with a one-click editor, analysis and posting at volume. Web app and iPhone app, built on Beat.
 
-*Open source · Python, TypeScript*
+*In development · TypeScript, Python, Swift*
 
-### [Windows AI Workstation](https://okohedeki.github.io/projects/#windows-ai-workstation)
+### Beat
 
-A native Windows interface for document-oriented AI tasks. Review individual
-actions, inspect output documents, and reopen local task history.
+Your personal investigative journalist. Give it any story, link, PDF, podcast or video; it follows the threads, checks
+what everyone else has said, and comes back with the angle nobody has written, with receipts. Runs locally, drivable
+over MCP.
 
-*Developer preview · C#, WinUI 3, TypeScript · [Implementation notes](https://okohedeki.github.io/projects/#windows-ai-workstation)*
+*In development · Python*
 
-### [Markov](https://github.com/Okohedeki/markov-engine)
+### Inference Lab
 
-A bookmark app that remembers what you forgot. Save sources and notes, search
-your archive, and rediscover older ideas with a reason to revisit them.
+A pretest for scaling LLM inference. Before you buy or rent GPUs, find out whether your serving setup (router, health
+checks, alerts, failover) survives the failures real fleets have, with one real vLLM replica and calibrated simulated
+ones.
 
-*Open source · Python, PWA*
+*In development · Python*
+
+### Launch Studio
+
+Ad creatives, ad management across Meta, Google and TikTok, a creator CRM, launch planning and A/B testing, running on
+your own GPU.
+
+*In development · Python*
